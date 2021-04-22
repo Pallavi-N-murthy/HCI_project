@@ -1,7 +1,12 @@
 # HCI_project - Tourist Guide
-**HCI_1294_1468_1628_1979**
 
-PES1201801979
+PES1201801294 - Rohit reddy
+
+PES1201801468 - Shriya raikar
+
+PES1201801628 - RS Chaitra sree
+
+PES1201801979 - Pallavi A N
 
 1) Presentation
     - Problem statement
